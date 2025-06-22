@@ -3,6 +3,7 @@ import prodcut2 from '../Images/Product2.jpg'
 import prodcut3 from '../Images/Product3.jpg'
 import Product4 from '../Images/Product4.jpg'
 import Product5 from '../Images/Product5.jpg'
+import Product6 from '../Images/Product6.jpg'
 
 export const data = [
     {
@@ -67,4 +68,17 @@ export const data = [
         searchCode: "05",
         websiteLogo: "https://1000logos.net/wp-content/uploads/2016/10/Amazon-Logo-2000.png"
     },
+    {
+        title: "Dennis Lingo Men",
+        description: "Dennis Lingo Men Solid Spread Collar Full Sleeves Regular Fit Cotton Casual Shirt",
+        price: "₹599",
+        discount: '-65%',
+        url: Product6,
+        affiliateLink: "https://amzn.to/4ed0ptP",
+        categoryType: "Clothes",
+        Gender: "Male",
+        searchCode: "06",
+        websiteLogo: "https://1000logos.net/wp-content/uploads/2016/10/Amazon-Logo-2000.png"
+    },
 ]
+
