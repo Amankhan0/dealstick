@@ -4,8 +4,21 @@ import prodcut3 from '../Images/Product3.jpg'
 import Product4 from '../Images/Product4.jpg'
 import Product5 from '../Images/Product5.jpg'
 import Product6 from '../Images/Product6.jpg'
+import Product7 from '../Images/Product7.jpg'
 
 export const data = [
+    {
+        title: "Noble Monk Men's Shirt",
+        description: "Noble Monk Men's Solid Regular Fit Shirt | Shirt with Hood",
+        price: "₹429",
+        discount: '-67%',
+        url: Product7,
+        affiliateLink: "https://amzn.to/3T4eZKs",
+        categoryType: "Clothes",
+        Gender: "Male",
+        searchCode: "07",
+        websiteLogo: "https://1000logos.net/wp-content/uploads/2016/10/Amazon-Logo-2000.png"
+    },
     {
         title: "DHRUVI TRENDZ Co Ord Set for Men",
         description: "Trendy Night Dress for Boys | T-Shirt and Shorts Combo for Lounge | Stylish Summer and Travel Wear | Men's Matching Two-Piece for Vacation",
